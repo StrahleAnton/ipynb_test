@@ -1,3 +1,4 @@
 DateTime==5.4
+pymssql==2.2.11
 pytz==2024.1
 zope.interface==6.2
